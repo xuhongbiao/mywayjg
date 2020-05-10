@@ -1,0 +1,2 @@
+# mywayjg
+code generator
